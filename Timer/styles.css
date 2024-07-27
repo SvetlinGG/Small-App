@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .timer {
+    text-align: center;
+  }
+  
+  #time {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 1em;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: lavender;
+    
+  }
+  
